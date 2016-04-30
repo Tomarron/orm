@@ -50,7 +50,7 @@ db.Create(&user)
 // find a user and set it on
 // "res" structure
 res:=User{}
-db.First(&out, &User{Name:"Foo"})
+db.First(&res, &User{Name:"Foo"})
 ```
 
 To get more information on requests, see [Gorm documentation](http://jinzhu.me/gorm/)
