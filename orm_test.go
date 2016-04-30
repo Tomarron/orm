@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	_ "github.com/kwiscale/orm/dialects/sqlite"
+	_ "gopkg.in/kwiscale/orm.v0/dialects/sqlite"
 )
 
 func up() {
