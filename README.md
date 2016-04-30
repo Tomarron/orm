@@ -1,6 +1,6 @@
 # ORM - Gorm Wrapper for Kwiscale
 
-[![Coverage Status](https://coveralls.io/repos/github/kwiscale/orm/badge.svg?branch=master)](https://coveralls.io/github/kwiscale/orm?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/kwiscale/orm/badge.svg?branch=master)](https://coveralls.io/github/kwiscale/orm?branch=master)[![Build Status](https://drone.io/github.com/kwiscale/orm/status.png)](https://drone.io/github.com/kwiscale/orm/latest)
 
 
 [Gorm](https://github.com/jinzhu/gorm) is a complete ORM for Go. Kwiscale/Gorm is a simple wrapper to be able to implement database in framework.
